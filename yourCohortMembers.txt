@@ -1,6 +1,5 @@
 The time or name of your cohort:
-1:53 PM 11/13
-First names of all your cohort classmates:
+Mycohort
 Hamlet Gordillo
 Charles Ericson
 Jonathan
